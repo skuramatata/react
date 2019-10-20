@@ -8,6 +8,7 @@ import { } from 'antd'
 
 export default class app extends Component {
   static defaultProps={
+
   }
 
   static propTypes = {
@@ -16,6 +17,7 @@ export default class app extends Component {
   constructor(props) {
     super(props)
     this.state = {}
+    const weqw = 0;
   }
 
   componentDidMount() {}
